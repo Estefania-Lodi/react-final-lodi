@@ -1,0 +1,17 @@
+.bg-custom-green {
+    background-color: rgb(34, 80, 53);
+  }
+  
+  .error,
+  .success {
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .error h4,
+  .success h4 {
+    margin: 0;
+    padding: 0;
+  }
+  
